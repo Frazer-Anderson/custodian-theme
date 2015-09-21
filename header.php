@@ -26,7 +26,7 @@
                 <div class="header_right">
                 	
                		<div class="social_icons">  
-                    <h5><?php _e('Follow us','skt-bizness'); ?></h5> 
+                    <h5><?php _e('Follow us'); ?></h5> 
                      	<a href="<?php echo esc_url(get_theme_mod('fb_link','#')); ?>" target="_blank" class="facebook"></a>
                      	<a href="<?php echo esc_url(get_theme_mod('twitt_link','#')); ?>" target="_blank" class="twitter"></a>
                      	<a href="<?php echo esc_url(get_theme_mod('in_link','#')); ?>" target="_blank" class="linkedin"></a>
