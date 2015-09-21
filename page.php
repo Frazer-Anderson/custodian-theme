@@ -1,4 +1,8 @@
-<?php get_header(); ?>
+<?php 
+/**
+ * @package Custodian
+ */
+get_header(); ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">

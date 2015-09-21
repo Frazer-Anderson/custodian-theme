@@ -1,4 +1,7 @@
 <?php
+/**
+ * @package Custodian
+ */
 if ( post_password_required() ) {
 	return;
 }
